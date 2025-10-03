@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lions Mane Infusions",
+    "tagline": "Functional meets flavorful.",
+    "image": "lionsmane-banner.jpg",
+    "logo": "lionsmane-logo.svg"
+  },
+  {
+    "title": "Skyworld Cannabis",
+    "tagline": "Where taste drives growth.",
+    "image": "skyworld-banner.jpg",
+    "logo": "skyworld-logo.svg"
+  },
+  {
+    "title": "All That Chocolate",
+    "tagline": "Crafted with tradition. Infused with innovation.",
+    "image": "atc-banner.jpg",
+    "logo": "atc-logo.svg"
+  }
+]
