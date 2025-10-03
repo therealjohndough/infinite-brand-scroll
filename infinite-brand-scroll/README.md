@@ -1,10 +1,18 @@
 # 🧬 Infinite Brand Scroll Demo
 
-A scroll-through 3D brand experience built with Three.js + GSAP + ScrollTrigger.
+**Note:** This directory contains the original standalone HTML/JS demo. 
 
-## 🔧 How to Use
+For the WordPress plugin version, see the parent directory which contains the full WordPress plugin implementation with:
+- WordPress plugin structure
+- Admin settings interface
+- Security features (nonces, sanitization, escaping)
+- Accessibility support (WCAG 2.1)
+- Multiple integration methods (shortcode, widget, Gutenberg block)
+- Performance optimizations
 
-1. Unzip and open `index.html` in a browser (or run via a local server for image loading).
+## 🔧 Using the Standalone Demo
+
+1. Open `index.html` in a browser (or run via a local server for image loading).
 2. Place your banner images in the `/assets/` folder.
 3. Edit `projects.json` to update project data (title, tagline, image, logo).
 
@@ -12,20 +20,6 @@ A scroll-through 3D brand experience built with Three.js + GSAP + ScrollTrigger.
 
 - Image files: 1200x675 JPG/PNG recommended (placed in `/assets/`)
 - Logos: Not used in demo, but placeholder included
-
-## 📁 Folder Structure
-
-```
-.
-├── index.html
-├── style.css
-├── main.js
-├── projects.json
-├── assets/
-│   ├── lionsmane-banner.jpg
-│   ├── skyworld-banner.jpg
-│   └── atc-banner.jpg
-```
 
 ## 🚀 Tech Stack
 
