@@ -1,0 +1,15 @@
+/**
+ * Infinite Brand Scroll - Block Editor Styles
+ * 
+ * @package InfiniteBrandScroll
+ */
+
+.ibs-block-preview {
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+.ibs-block-preview h3,
+.ibs-block-preview p {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
